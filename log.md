@@ -21,13 +21,11 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Today's Progress**: Worked on a vuejs app in which the user has to type the same characters of a random generated string as fast as possible.
 
-
 ### Day 4: June 24, Sunday
 
 **Today's Progress**: I worked on the random string app that I started yesterday, I'm calling it Fastype. I wrote some tests for it using Jest.
 
 **Thoughts**: I'm new to tests, but I'm already liking this tests thing. I'm thinking on giving test driven development a try.
-
 
 ### Day 5: June 25, Monday
 
@@ -38,3 +36,18 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 **Link(s) to work**
 1. [PinVue's Hub](http://pinguino.sonet.cl/pinvues-hub/#/apps/fastype)
 2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/f77b7607a9c35ba76d00dd32706be1815ff8d66c)
+
+### Day 6: June 26, Tuesday
+
+**Today's Progress**: I started to work on a Sudoku generator, trying the test driven development approach. It surprises me how I have tons of tests, some functions and 0 user interface yet.
+
+**Thoughts**: I don't know if I'm doing this right though, maybe I should read more on how TDD works.
+
+### Day 7: June 27, Wednesday
+
+**Today's Progress**: I kept working on the Sudoku generator. I'm trying to generate a completed Sudoku and then remove some random numbers. The algorithm is failing while filling the matrix, it gets to a point where there is no valid number to fill the position.
+
+**Thoughts**: It seems that I should use a recursive function to fill the sudoku matrix, so when it gets to a point where there are no more valid numbers, it should go back and re-fill the positions with new number combinations. But in order to implement a recursive function, before I should refactor the randon number generator, because right now it is just brute force, it generates a random number between 1 to 9, and if it doesn't fits the requirements (sudoku rules) it generates a new number, and keeps doing that until it generates a one which fits, so the recursive function would probably get stuck if it keeps getting the same numbers.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/1e6634655ff504f669a893c9d4de6859495f6647)
