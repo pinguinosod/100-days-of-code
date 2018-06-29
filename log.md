@@ -51,3 +51,12 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/1e6634655ff504f669a893c9d4de6859495f6647)
+
+### Day 8: June 28, Thursday
+
+**Today's Progress**: I kept working on the Sudoku generator. I refactored some functions, It's recursive now, but it is still not working.
+
+**Thoughts**: It is 4:35 am, I'm tired, I was going to code for an hour, ended coding for 4 hours, and the thing is still not working >:(.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/e5026299ccf6a071419b69c681611e78a67ea6af)
