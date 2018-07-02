@@ -80,3 +80,12 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/2d0ca4348560c40decea7cbbd51a8a40fa7cf3c6)
+
+### Day 11: July 2, Monday
+
+**Today's Progress**: I generated a candlestick chart for cryptocurrencies, it is consuming Binance's API. (I replaced what I had).
+
+**Thoughts**: The UI/UX sucks, I have to work on that, and it lacks tests, I have to write them. But the biggest step is already done.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/efa2e3c145f1d09f278cf5fcc0c3fad75eec576c)
