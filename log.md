@@ -72,3 +72,11 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 2. [Commit 2](https://github.com/pinguinosod/pinvues-hub/commit/f9ffc8b65d9d59503ae35cf4852f1a4e93e949bf)
 3. [Commit 3](https://github.com/pinguinosod/pinvues-hub/commit/74d9f760bf2f52dc15cd89f0c84510aa091f417e)
 
+### Day 10: July 1, Sunday
+
+**Today's Progress**: Started to work on a Cryptocurrency app. It's retrieving data from CMC's API and it's showing the top 100 cryptos.
+
+**Thoughts**: I want to make a candlestick chart for a selected crypto, but I will need a different source of data, maybe Binance's API.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/2d0ca4348560c40decea7cbbd51a8a40fa7cf3c6)
