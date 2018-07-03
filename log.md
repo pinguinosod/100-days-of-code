@@ -89,3 +89,12 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/efa2e3c145f1d09f278cf5fcc0c3fad75eec576c)
+
+### Day 12: July 3, Tuesday
+
+**Today's Progress**: I wrote tests. I found and corrected an error on a function.
+
+**Thoughts**: I wouldn't notice the error if I hadn't wrote tests.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/6112b98321968690209f7621a1012eda6a382d01)
