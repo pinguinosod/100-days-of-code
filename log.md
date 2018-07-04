@@ -98,3 +98,14 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/6112b98321968690209f7621a1012eda6a382d01)
+
+### Day 13: July 4, Wednesday
+
+**Today's Progress**: I kept working on the Cryptocurrency thing, I gave it an UI/UX Upgrade (nothing fancy though, it's still ugly).
+
+#HireMeBinance 😆
+
+**Thoughts**: I copied Binance's layout to select a pair, somewhere I read that you shouldn't innovate unless your solution is way better, people are used to design patterns, you shouldn't make things harder for them.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/a54485b07e772f391dd14aef8b4c2b4f26c534c3)
