@@ -109,3 +109,13 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/a54485b07e772f391dd14aef8b4c2b4f26c534c3)
+
+### Day 14: July 5, Thursday
+
+**Today's Progress**: Worked on the pinvue's hub website, took the animations from the apps and merged them in one file, so now the common animations should go there. Tried to change the colors for hours, ended up with the same colors. Added github link and about link.
+
+**Thoughts**: I am bad at picking colors.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/cdf38ae21a70f571f78b467880c5f7c5ee45ba02)
+2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/c0c78527f80298c245fe7092f4027db693d1374b)
