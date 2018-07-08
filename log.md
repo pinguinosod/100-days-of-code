@@ -119,3 +119,12 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/cdf38ae21a70f571f78b467880c5f7c5ee45ba02)
 2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/c0c78527f80298c245fe7092f4027db693d1374b)
+
+### Day 15: July 8, Sunday
+
+**Today's Progress**: Kept working on the cryptocurrency thing, it looks a little better now, the time interval is now selectable.
+
+**Thoughts**: I lost two days because I decided to go out for some social interaction, also I had to work on an assignment for a job oportunity, but now I am back on track.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/4a57be67275989149ccd3f59e4ab46b32780f3f0)
