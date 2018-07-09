@@ -128,3 +128,12 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/4a57be67275989149ccd3f59e4ab46b32780f3f0)
+
+### Day 16: July 9, Monday
+
+**Today's Progress**: Still working on the cryptocurrency chart, I added the price on the Y axis of the candlestick chart.
+
+**Thoughts**: I should add a line indicating the current price, and then add the volume at the bottom, and then get hired by tradingview or something 😅.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/55b70e643706ecf0f0d79f937cc205874911a557)
