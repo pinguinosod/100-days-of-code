@@ -137,3 +137,14 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/55b70e643706ecf0f0d79f937cc205874911a557)
+
+### Day 17: July 10, Tuesday
+
+**Today's Progress**: Still working on the crypto chart, I added the current price indicator.
+
+**Thoughts**: Next thing: the volume.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/ebaf7c618abff7c8959718171d0249b99f3c44f5)
+
+
