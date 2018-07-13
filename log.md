@@ -158,3 +158,13 @@ Github is warning about a security vulnerability in package-lock.json, I have to
 2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/0ef00bf083956ca11f949189b131e26304a27589)
 
 
+### Day 19: July 12, Tuesday
+
+**Today's Progress**: Today I contributed to https://github.com/cryptoluka on their peer map. I'ts online here: http://peers.cryptoluka.cl/ 
+
+It's funny because after being the whole afternoon working on a solution, I ended up noticing I just had to modify like 3 lines. But it was a good learning experience.
+
+**Thoughts**: I had to work with NodeJS which I'm not very familiar with, learned about working with cache, which is very useful.
+
+**Link(s) to work**
+1. [Commit](https://github.com/cryptoluka/lukapeersbackend/commit/0b36de40fe28441a2df7d62921f45105403d65c3)
