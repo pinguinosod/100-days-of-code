@@ -168,8 +168,6 @@ It's funny because after being the whole afternoon working on a solution, I ende
 **Link(s) to work**
 1. [Commit](https://github.com/cryptoluka/lukapeersbackend/commit/0b36de40fe28441a2df7d62921f45105403d65c3)
 
-
-
 ### Day 20: July 13, Friday
 
 **Today's Progress**: Today I wrote more tests on the cryptocurrency charts app.
@@ -179,3 +177,11 @@ It's funny because after being the whole afternoon working on a solution, I ende
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/91d196d627aa123475b53aa04136f69358e947dd)
 
+### Day 21: July 14, Saturday
+
+**Today's Progress**: Today I came back to PHP, worked on OOP stuff. 🙃
+
+**Thoughts**: I feel like keep doing more PHP stuff, because I'm very rusty.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/simple-portfolio-class/commit/fbcff5c469aed27a4238ba51185601bf4c3a3222)
