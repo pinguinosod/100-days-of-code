@@ -194,3 +194,14 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/276eaa26befd2b59d4cfd5db1c5c1e2bf8ee795e)
+
+
+### Day 23: July 16, Monday
+
+**Today's Progress**: Today I kept working on SATM.
+
+**Thoughts**: Tests first, code later. I was so used to run the app and interact with it in order to test it, it is very cool to test it from console and know it will work if its passing the tests.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/a037ea8bc838bea5c66efab605d97d33c5943812)
+
