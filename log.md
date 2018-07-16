@@ -177,11 +177,11 @@ It's funny because after being the whole afternoon working on a solution, I ende
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/91d196d627aa123475b53aa04136f69358e947dd)
 
-### Day 21: July 14, Saturday
+### Day 22: July 15, Sunday
 
-**Today's Progress**: Today I came back to PHP, worked on OOP stuff. 🙃
+**Today's Progress**: Today I started working on a very simple text based fantasy RPG game. It's called Storm at the Mountains. I just started building it as a prototype, if its good I might start working on a bigger version.
 
-**Thoughts**: I feel like keep doing more PHP stuff, because I'm very rusty.
+**Thoughts**: I'm still getting used to TDD.
 
 **Link(s) to work**
-1. [Commit](https://github.com/pinguinosod/simple-portfolio-class/commit/fbcff5c469aed27a4238ba51185601bf4c3a3222)
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/276eaa26befd2b59d4cfd5db1c5c1e2bf8ee795e)
