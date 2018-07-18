@@ -212,3 +212,12 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/ef2dd47001f007d946fe250be1b1bf5cb448a10b)
+
+### Day 25: July 18, Wednesday
+
+**Today's Progress**: SATM: Code refactoring. The code certainly looks better now, I moved the encounters array to a JSON file.
+
+**Thoughts**: So I'm at 25% of the challenge, it has been a good journey so far, I haven't do anything fancy yet, but I've been training muscle memory on VueJS. Also I started using tests and I'm trying to get used to it.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/b776e105a48ec8b90f6bc2dddb4f9f4cfcadcfb0)
