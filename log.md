@@ -195,7 +195,6 @@ It's funny because after being the whole afternoon working on a solution, I ende
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/276eaa26befd2b59d4cfd5db1c5c1e2bf8ee795e)
 
-
 ### Day 23: July 16, Monday
 
 **Today's Progress**: Today I kept working on SATM.
@@ -205,3 +204,11 @@ It's funny because after being the whole afternoon working on a solution, I ende
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/a037ea8bc838bea5c66efab605d97d33c5943812)
 
+### Day 24: July 17, Tuesday
+
+**Today's Progress**: Started to work on the battle functionalities of SATM.
+
+**Thoughts**: Being tired makes coding harder.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/ef2dd47001f007d946fe250be1b1bf5cb448a10b)
