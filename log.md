@@ -221,3 +221,21 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/b776e105a48ec8b90f6bc2dddb4f9f4cfcadcfb0)
+
+### Day 26: July 19, Thursday
+
+**Today's Progress**: SATM: Completed the core structure.
+
+**Thoughts**: I have to make it harder, better, faster, stronger..
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/286428bc78b31f7fdabd60303c8ca1a5eb2ac3ad)
+
+### Day 27: July 20, Friday
+
+**Today's Progress**: SATM: Visual upgrade.
+
+**Thoughts**: I sucks at UI.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/3ca3e926d2c2b1b700bda06e3d2e0e2e22ba1115)
