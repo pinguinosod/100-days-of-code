@@ -239,3 +239,12 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/3ca3e926d2c2b1b700bda06e3d2e0e2e22ba1115)
+
+### Day 28: July 21, Saturday
+
+**Today's Progress**: SATM: Upgrade battle system, add initiative, enemies fight back.
+
+**Thoughts**: I spent 50% of the time debugging a bug.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/28612e1857d7a3e27872b64959c86e2af9b7e999)
