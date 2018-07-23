@@ -248,3 +248,12 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/28612e1857d7a3e27872b64959c86e2af9b7e999)
+
+### Day 29: July 22, Sunday
+
+**Today's Progress**: SATM: Implement combat log. ⚔️
+
+**Thoughts**: I spent quite some time making the animation of adding a new entry to the list.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/bb0b704afc3f90f1345d009b4157850c07fa3973)
