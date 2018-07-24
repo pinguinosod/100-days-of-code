@@ -257,3 +257,16 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/bb0b704afc3f90f1345d009b4157850c07fa3973)
+
+### Day 30: July 23, Monday
+
+**Today's Progress**: SATM: Implement experience points and level up. Add some minor features and fix minor bugs.
+
+**Thoughts**: I've been working for 9 days on SATM, its looks better than I thought It would look at first, I feel like working on it for a couple more days and then jump to another thing.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/0447bcdd385c87d0ffad59f59703fce165f246aa)
+2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/baff8c7309321d03627dd7c4dc96b5cc1de3074c)
+3. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/bb7c2eb04e53f5584dfcf060a2e9732394141edc)
+4. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/57e682890428e906766535ea65c2a18539d5b805)
+5. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/214c1e33a7e98812d1e5640fc590572a262212e6)
