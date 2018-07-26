@@ -279,3 +279,13 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/e7456445ee79f241ff72f8de5b23648e95fb0bd0)
+
+### Day 32: July 26, Thursday
+
+**Today's Progress**: I kept working on i18n of SATM, I made like 80% of the text translatable, and did the spanish translation.
+
+**Thoughts**: There are couple challenges on i18n that I still don't know how to address.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/6f5f21a63ac9f440cb8610f13f7e2483d0980451)
+2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/8778bf53d6c9e53cc1b2ac6f0acd27e2726020c1)
