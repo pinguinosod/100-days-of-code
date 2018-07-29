@@ -289,3 +289,14 @@ It's funny because after being the whole afternoon working on a solution, I ende
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/6f5f21a63ac9f440cb8610f13f7e2483d0980451)
 2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/8778bf53d6c9e53cc1b2ac6f0acd27e2726020c1)
+
+### Day 33: July 28, Saturday
+
+**Today's Progress**: Completed i18n of SATM, and got it fully translated to spanish. I learned how to deploy to gh-pages, the thing is now hosted here: https://pinguinosod.github.io/pinvues-hub/ 
+
+**Thoughts**: The cryptocurrency app isn't working because the endpoint is not https, I will upload it to somewhere else later.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/360330fe363580a5bb917cf164378d2fcb2a65d5)
+2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/129415b6f8677fe979dd23688d1722c5ab770356)
+3. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/145ac382161d2ea6fea80594043b331e33713547)
