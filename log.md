@@ -300,3 +300,12 @@ It's funny because after being the whole afternoon working on a solution, I ende
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/360330fe363580a5bb917cf164378d2fcb2a65d5)
 2. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/129415b6f8677fe979dd23688d1722c5ab770356)
 3. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/145ac382161d2ea6fea80594043b331e33713547)
+
+### Day 34: July 29, Sunday
+
+**Today's Progress**: Figured out how heroku and composer works. Uploaded the cryptocurrency backend to heroku, now it works again. https://pinguinosod.github.io/pinvues-hub/#/apps/cryptocurrency
+
+**Thoughts**: The way I deploy to gh-pages is pretty lame, I messed up node_modules folder while doing it 🤣
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/c95cc3ba1be701e1daf45905e1c0bd89fda736e1)
