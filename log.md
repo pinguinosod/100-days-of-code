@@ -309,3 +309,12 @@ It's funny because after being the whole afternoon working on a solution, I ende
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/pinvues-hub/commit/c95cc3ba1be701e1daf45905e1c0bd89fda736e1)
+
+### Day 35: July 30, Monday
+
+**Today's Progress**: Didn't really code much today. I installed VS Code to try it out (I was using Atom), and kept messing around with deploying to heroku.
+
+I made this thing in PHP which generates 3 random numbers (stats) between 7 and 16:
+https://phpinguino.herokuapp.com/rpg/generateRandomHero.php?name=Pinguino
+
+**Thoughts**: I'm going to stop with VueJS, and start doing things with PHP or Angular, I still can't decide which (I want to get better at both).
