@@ -325,3 +325,13 @@ https://phpinguino.herokuapp.com/rpg/generateRandomHero.php?name=Pinguino
 
 **Thoughts**: Not directly related to code but I went to a PHP meetup today, there was a presentation about querying in laravel and I was pretty lost because I haven't used laravel, but I got some knowledge and exposure to how things work. Also is great to meet new people who code.
 And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 before).
+
+### Day 37: August 01, Wednesday
+
+**Today's Progress**: Completed the core functionalities of Tic-tac-toe, pretty simple, computer is dumb, but it works. 
+
+**Thoughts**: I plan to make a frontend for this on angular, in order to learn/practice angular.
+
+**Link(s) to work**
+1. [Hosted here](https://phpinguino.herokuapp.com/tictactoe/)
+2. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/44a44bd825f64b1d68ba8adc3d253a4812376073)
