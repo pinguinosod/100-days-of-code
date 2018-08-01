@@ -318,3 +318,10 @@ I made this thing in PHP which generates 3 random numbers (stats) between 7 and 
 https://phpinguino.herokuapp.com/rpg/generateRandomHero.php?name=Pinguino
 
 **Thoughts**: I'm going to stop with VueJS, and start doing things with PHP or Angular, I still can't decide which (I want to get better at both).
+
+### Day 36: July 31, Tuesday
+
+**Today's Progress**: Started to work on a tic-tac-toe on PHP.
+
+**Thoughts**: Not directly related to code but I went to a PHP meetup today, there was a presentation about querying in laravel and I was pretty lost because I haven't used laravel, but I got some knowledge and exposure to how things work. Also is great to meet new people who code.
+And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 before).
