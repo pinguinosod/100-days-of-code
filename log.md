@@ -336,7 +336,6 @@ And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 be
 1. [Hosted here](https://phpinguino.herokuapp.com/tictactoe/)
 2. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/44a44bd825f64b1d68ba8adc3d253a4812376073)
 
-
 ### Day 38: August 02, Thursday
 
 **Today's Progress**: Implemented difficulty levels on Tic-tac-toe. Difficulty 1 and 2 are too easy, difficulty 3 is not done yet. 
@@ -346,3 +345,12 @@ And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 be
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/e3d4a239bede328f8bbe4631fcb8ad3ff058ca72)
 2. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/722b06bf1fcf7d1b1c46e091585bcff5a86342e3)
+
+### Day 39: August 03, Friday
+
+**Today's Progress**: Advanced on the difficulty level 3 of Tic-tac-toe.
+
+**Thoughts**: I just noticed I don't know how to write tests on PHP. So before jumping into Angular, I will learn how to use PHPUnit.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/3fcac41a82a4555242a72c04636814a6261aa2a4)
