@@ -354,3 +354,14 @@ And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 be
 
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/3fcac41a82a4555242a72c04636814a6261aa2a4)
+
+### Day 40: August 04, Saturday
+
+**Today's Progress**: Installed PHPUnit and wrote some test. Also refactored the code.
+
+**Thoughts**: I bought an Angular course on udemy, I'll be doing that tomorrow.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/34422b856f263c2fc0057d7cb07bf37a0bd61243)
+2. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/be0812d4600b21ad50db7b89d479a0dcb7b33970)
+
