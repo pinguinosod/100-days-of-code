@@ -365,7 +365,7 @@ And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 be
 1. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/34422b856f263c2fc0057d7cb07bf37a0bd61243)
 2. [Commit](https://github.com/pinguinosod/tictactoe-backend/commit/be0812d4600b21ad50db7b89d479a0dcb7b33970)
 
-### Day 41: August 11, Sunday
+### Day 41: August 11, Saturday
 
 **Today's Progress**: Made an app with Angular, It's called Priority List, It let you enter items and assign priority level to them.
 
@@ -374,3 +374,12 @@ And I watched some videos about the new features of PHP 7 (I hadn't use PHP 7 be
 **Link(s) to work**
 1. [Commit](https://github.com/pinguinosod/priority-list/commit/346ec12196f6bd8fa063de0049b5f15cac494b95)
 2. [URL](https://pinguinosod.github.io/priority-list/)
+
+### Day 42: August 12, Sunday
+
+**Today's Progress**: (Angular) UX/UI Improvement to Priority List. Added Bootstrap and Fontawesome. Also implemented column sorting.
+
+**Thoughts**: Angular is not as hard as I thought, probably because I already know VueJS.
+
+**Link(s) to work**
+1. [Commit](https://github.com/pinguinosod/priority-list/commit/ad89808c3b86af8e11e38ee44cd02eabcc21504a)
