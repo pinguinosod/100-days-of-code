@@ -1,3 +1,6 @@
+# I failed :sweat_smile:
+I will probably will try again in the future.
+
 # 100 Days Of Code - Log
 
 ### Day 1: June 21, Thursday
